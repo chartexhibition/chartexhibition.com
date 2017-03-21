@@ -1,6 +1,19 @@
-# chartexhibition.com
-Website for Chart Exhibition
+# [Phenomic](https://github.com/MoOx/phenomic) phenomic-theme-base
 
-Built with Phenomic (React)
+## Install dependencies
 
-Deployed to Netlify
+```sh
+npm install
+```
+
+## Run development server
+
+```sh
+npm start
+```
+
+## Build for production
+
+```sh
+npm run build
+```
