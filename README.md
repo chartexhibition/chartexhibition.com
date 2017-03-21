@@ -1,4 +1,6 @@
-# [Phenomic](https://github.com/MoOx/phenomic) phenomic-theme-base
+# [Chart Exhibition](https://chartexhibition.com) website
+
+Built with Phenomic, deployed on netlify.
 
 ## Install dependencies
 
