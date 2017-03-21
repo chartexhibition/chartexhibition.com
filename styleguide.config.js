@@ -13,7 +13,7 @@ const postcssPlugins = (webpackInstance) => {
 }
 
 module.exports = {
-  title: 'chartexhibition.com Style Guide',
+  title: 'chartexhibition.com React Component Library Style Guide',
   components: './src/components/**/*.js',
   skipComponentsWithoutExample: true,
   updateWebpackConfig(webpackConfig) {

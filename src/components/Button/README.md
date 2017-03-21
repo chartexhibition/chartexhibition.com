@@ -1,9 +1,9 @@
 React component example:
 
-    <Button size="large">Push Me</Button>
+    <Button>Click me</Button>
 
 One more with generic code fence:
 
 ```
-<Button size="large">Push Me</Button>
+<Button big="true" secondary="true">Click me too</Button>
 ```
