@@ -1,7 +1,7 @@
 import React, { PropTypes } from "react"
 import { Link } from "phenomic"
 
-import Button from "../../components/Button"
+import { Button } from "semantic-ui-react"
 
 import styles from "./index.css"
 

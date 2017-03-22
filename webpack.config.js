@@ -148,22 +148,24 @@ export default (config = {}) => {
         // ! \\ If you want global CSS for node_modules only, just uncomment
         // this section and the `include` part
         // // webpack 1
-        /*
+        // /*
         {
           test: /\.css$/,
           // depending on your need, you might need to scope node_modules
           // for global CSS if you want to keep CSS Modules by default
           // for your own CSS. If so, uncomment the line below
-          // include: path.resolve(__dirname, "node_modules"),
+          // XXX this has been customised to suit use of semantic-ui css
+          //     only looks in semantic/dist and doesn't use postcss
+          include: path.resolve(__dirname, "semantic/dist"),
           loader: ExtractTextPlugin.extract(
             "style-loader",
             [
               "css-loader",
-              "postcss-loader",
+              // "postcss-loader",
             ].join("!")
           ),
         },
-        */
+        // */
         // // webpack 2
         /*
         {

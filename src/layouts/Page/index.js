@@ -3,7 +3,7 @@ import Helmet from "react-helmet"
 import warning from "warning"
 import { BodyContainer, joinUri, Link } from "phenomic"
 
-import Button from "../../components/Button"
+import { Button } from 'semantic-ui-react'
 import Loading from "../../components/Loading"
 
 import styles from "./index.css"
