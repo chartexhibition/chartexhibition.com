@@ -9,7 +9,9 @@
     "lint:css": "stylelint \"src/**/*.css\"",
     "lint": "npm-run-all --parallel lint:*",
     "start": "phenomic start",
-    "build": "phenomic build",
+    "build:semantic": "cd semantic && gulp build",
+    "build:phenomic": "phenomic build",
+    "build": "npm-run-all build:*",
     "pretest": "npm run lint",
     "test": "npm run build"
   },
