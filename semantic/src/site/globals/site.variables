@@ -1,3 +1,11 @@
 /*******************************
      User Global Variables
 *******************************/
+
+/*-------------------
+       Fonts
+--------------------*/
+
+@headerFont        : 'Source Serif Pro', serif;
+@pageFont          : 'Source Sans Pro', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+@googleFontName    : 'Source+Sans+Pro|Source+Serif+Pro';
