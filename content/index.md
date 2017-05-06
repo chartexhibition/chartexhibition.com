@@ -2,13 +2,12 @@
 title: Chart Exhibition
 layout: Homepage
 hero: /assets/flowers.jpg
-# hero credit: https://www.flickr.com/photos/pslee999/15589950511/
 cta:
-  label: About theme
-  link: "about"
+  label: Submit a Chart
+  link: "submit"
 ---
 
-Hi there. Before having fun with Phenomic, be sure to read the documentation :
+Before having fun with Phenomic, be sure to read the documentation :
 
 * [How to setup a new project with Phenomic](https://phenomic.io/docs/setup/)
 * [Getting Started with Phenomic](https://phenomic.io/docs/getting-started/)

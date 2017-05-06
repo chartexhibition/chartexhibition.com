@@ -10,10 +10,7 @@ const Footer = () => (
         href={ process.env.PHENOMIC_HOMEPAGE }
         className={ styles.phenomicReference }
       >
-        { "Website generated with " }
-        <span className={ styles.phenomicReferenceName }>
-          {  `<${ process.env.PHENOMIC_NAME} />` }
-        </span>
+        &#169; Chart Exhibition, { `${ new Date().getFullYear() }` }
       </a>
     </p>
   </footer>
