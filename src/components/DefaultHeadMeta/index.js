@@ -1,6 +1,8 @@
 import React, { PropTypes } from "react"
 import Helmet from "react-helmet"
 
+import favicon from '../../assets/favicon.ico'
+
 const DefaultHeadMeta = (props, { metadata: { pkg } }) => (
   <div hidden>
     <Helmet
@@ -12,6 +14,9 @@ const DefaultHeadMeta = (props, { metadata: { pkg } }) => (
         { property: "og:site_name", content: pkg.name },
         { name: "twitter:site", content: `@${ pkg.twitter }` },
         ...props.meta ? props.meta : [],
+      ] }
+      link={ [
+          { rel: 'icon', href: favicon }
       ] }
       script={ [
         { src: "https://cdn.polyfill.io/v2/polyfill.min.js" },

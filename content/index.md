@@ -7,37 +7,15 @@ cta:
   link: "submit"
 ---
 
-Before having fun with Phenomic, be sure to read the documentation :
+Good researchers put a lot of effort into making their work beautiful, in particular, the tricky task of visualising their findings in charts and graphs. We think they should get a chance show off their great work to a wider audience. That's why we've started Chart Exhibition.
 
-* [How to setup a new project with Phenomic](https://phenomic.io/docs/setup/)
-* [Getting Started with Phenomic](https://phenomic.io/docs/getting-started/)
-* [Usage & APIs](https://phenomic.io/docs/usage/)
-* [FAQ](https://phenomic.io/docs/faq/)
+Our first exhibition is being organised for late 2017 in Brisbane, Australia.
 
-Also take a look at
-[existing websites that use Phenomic](https://phenomic.io/showcase/),
-some projects share their source code!
+We are looking for high quality charts from three categories:
+ * Published charts
+ * Local chartists
+ * Pop-chart
 
-<!-- demo to show you that you can use "assets" folder -->
-<small>
-  Built with
-  <a href="https://facebook.github.io/react/">
-    <img alt="" src="assets/react.svg" width="16" height="16" />
-    React
-  </a>.
-</small>
+We are currently working on a submissions system, in the mean time, send them in to <submissions@chartexhibition.com>
 
----
-
-You may want to take a look at the [404.html](/404.html) and tweak the render.
-
-If you need to make adjustments, you can directly alter page layouts in
-``src/layouts/``;
-small things like the header, footer, buttons and so on can be changed in
-``src/components/``;
-and for colors and common CSS variables, you can modify ``postcss.config.js``.
-
-_You feel like the base theme is not enough or you just saw something wrong?_
-[Please help us make Phenomic better!](https://phenomic.io/contributing/)
-
----
+If you'd like to sponsor us or say hi, drop us an email here <enquiries@chartexhibition.com>
