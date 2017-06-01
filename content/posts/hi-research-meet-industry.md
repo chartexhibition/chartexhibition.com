@@ -7,7 +7,7 @@ hero: /assets/chart01.jpg
 
 Firstly, welcome & thanks for visiting our site =]
 
-Without a doubt, the chart exhibition team loves a clear graph. Some can be a bit rough though. Take this one from [the Australian Innovation System report](https://industry.gov.au/Office-of-the-Chief-Economist/Publications/Documents/Australian-Innovation-System/2016-AIS-Report.pdf) that show's Australia's dismal performance in the OECD rankings for research and industry collaboration.
+Without a doubt, the chart exhibition team loves a good graph. Some can be a bit rough though. Take this one from [the Australian Innovation System report](https://industry.gov.au/Office-of-the-Chief-Economist/Publications/Documents/Australian-Innovation-System/2016-AIS-Report.pdf) that show's Australia's dismal performance in the OECD rankings for research and industry collaboration.
 
 ![Research & Industry Collaboration in Australia vs. the rest of the OECD](/assets/research_industry_collab_australia.png)
 
